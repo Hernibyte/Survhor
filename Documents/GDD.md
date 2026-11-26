@@ -2,7 +2,7 @@
 
 PD: Usar el prefijo Survhor para las clases en C++.
 
-## Gameplay
+## Initial Design Concept
 
 ### Player
 
@@ -13,6 +13,8 @@ El jugador puede correr?
 Puede realizar un empuje como el de Zomboid, podria ser una carga u otra cosa pero la idea seria permitirle al jugador tener la posibilidad de salvarse incluso sin ningun arma aunque no seria infalible y no podria ser usado contra todos los enemigos.
 
 El jugador no puede pegar a melee sin algun arma equipada.
+
+Podria estar interesante agregar el tipico pisoton para rematar? No estoy tan seguro de darle esa capacidad al jugador igualmente.
 
 El inventario es tipo RE2, aunque podria llegar a ser tipo RE4, pero podriamos centrarnos en un inventario como RE2 primero y ver como funciona. Ademas el juego no se va a pausar cuando abras el inventario y ademas te deberia de permitir poder ver algo del juego mientras estan con el inventario abierto.
 
@@ -28,6 +30,8 @@ El jugador podria moverse mientras esta apuntando el arma?
 Podria existir la posibilidad que en contadas situaciones el jugador tenga una camara en primera persona o incluso con vista senital, pero no es prioridad y ademas serian ocaciones especiales.
 
 ### Enemigos
+
+Supongo que la idea es que cada enemigo que intentes matar sea un desafio en si mismo, evitar poner muchos enemigos en una misma zona.
 
 Enemigo de toda la vida.
 
