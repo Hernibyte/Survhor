@@ -14,18 +14,18 @@ Puede realizar un empuje como el de Zomboid, podria ser una carga u otra cosa pe
 
 El jugador no puede pegar a melee sin algun arma equipada.
 
-Podria estar interesante agregar el tipico pisoton para rematar? No estoy tan seguro de darle esa capacidad al jugador igualmente.
+Podria estar interesante agregar el tipico pisoton para rematar? No estoy tan seguro de darle esa capacidad al jugador igualmente. Depende, en el signalis puedes patearlos en el piso para rematar, pero los enemigos siempre reviven despues de un tiempo (explorar si queremos enemigos que revivan y se necesite una mecanica para matarlos para siempre)
 
 El inventario es tipo RE2, aunque podria llegar a ser tipo RE4, pero podriamos centrarnos en un inventario como RE2 primero y ver como funciona. Ademas el juego no se va a pausar cuando abras el inventario y ademas te deberia de permitir poder ver algo del juego mientras estan con el inventario abierto.
 
 Mecanica extra de recarga de las armas de fuego similar a los sistemas de recarga de algunos extraction's como el tarkov por ejemplo. Tambien existirian cargadores para solventar este problema. same same.
 Un arma podria ser un revolver por ejemplo y eso tambien forzaria al jugador a recargar bala a bala, quiza se podria solventar esta mecanica simplemente con las armas adecuadas. pa pensar.
 
-Las armas melee se pueden romper?
+Las armas melee se pueden romper? No me pareceria mal
 
 Existiria un item que con tenerlo en el inventario puede salvarte la vida una unica vez? como por ejemplo el cuchillo del resident remake.
 
-El jugador podria moverse mientras esta apuntando el arma?
+El jugador podria moverse mientras esta apuntando el arma? Por ahora diria que no, ver en el futuro si se quiere
 
 Podria existir la posibilidad que en contadas situaciones el jugador tenga una camara en primera persona o incluso con vista senital, pero no es prioridad y ademas serian ocaciones especiales.
 
@@ -51,4 +51,12 @@ PD: No es necesario pensar en quedarse con una sola de estas, de hecho no estari
 - Dios nos abandona
 - Nos visita una entidad que no deberia estar en nuestro plano
 - Culto religioso haciendo macanerias (JA un clasico)
-- 
+
+### Puzzles
+Diria que vayamos mas por el lado de Silent Hill, en todo caso un punto medio entre resi y sh para la dificultad de resolverlos
+
+Backtracking para resolver alguno??
+
+### Exploracion
+
+Queremos que sea linear o que te vayas desbloqueando zonas en un area predeterminada a medida que vayas avanzando en la historia? (estilo re2 o metroidvanias)
