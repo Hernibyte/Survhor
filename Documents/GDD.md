@@ -39,3 +39,14 @@ Enemigo que no se puede morir, se puede frenar y solo te persigue. La tipica.
 
 Enemigo que no se puede morir con melee o arma de fuego y necesita un objeto clave.
 
+### Concept
+
+Lista de algunas cosas que podrian funcionar como referencia para el disparador inicial. Preferiblemente que funcione con una sola frase. Solo es para iniciar el concepto en base a esa frase simple.
+
+- IA mala mu mala pasan cosas pum caos muerte destruccion y horror
+- Un mundo en los sueños y la mente
+- Viviendo una simulacion
+- Dios nos abandona
+- Nos visita una entidad que no deberia estar en nuestro plano
+- Culto religioso haciendo macanerias (JA un clasico)
+- 
