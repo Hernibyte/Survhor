@@ -1,6 +1,6 @@
 # Game Design Document
 
-PD: Usar el prefijo Survhor para las clases en C++. (es muy largo, diria de usar SH, sino los nombres van a ser enormes y van a generar errores my niggi)
+PD: Usar el prefijo Survhor para las clases en C++. (es muy largo, diria de usar SH, sino los nombres van a ser enormes y van a generar errores my niggi) -Hernan: Enorme mi piroquiña, pero acepto el trade.
 
 ## Initial Design Concept
 
@@ -53,6 +53,10 @@ PD: No es necesario pensar en quedarse con una sola de estas, de hecho no estari
 - Culto religioso haciendo macanerias (JA un clasico)
 - El juego "Look Outside" tiene un concepto interesante de entrada para ver
 
+-Hernan: Concepto usando como base el world building de detras del Velo:
+
+Pense en un principio simple y bastante usado, basicamente en el juego son dos personajes, vos y un amigo, donde ambos quieren descubrir que paso realmente (dado que el suceso fue claramente ocultado) y tu amigo quiere ir al lugar donde supuestamente se origino todo (la UBA basicamente deu) y bueno vos no estas muy convencido de ir y etc. el punto es que medio te peleas con tu amigo y este se va solo al lugar y vos como un increible amigacho lo vas a buscar para tratar de sacarlo de ahi / acompañarlo o algo asi yo que se. Y Esa es mi maravilloso motivo por el cual estas en el lugar en el que estas. Un pequeño detalle es quiza que descubriste que tu amigo estaba extrañamente obsesionado con ese sitio y bla bla. El punto es que vas, y pasan cosas, y todo muy malo muy malo y muy turbio muy turbio. Obviamente las instalaciones en las que se origina el Encuentro eran consideradas muy importantes y no solo mucha gente trabajaba ahi sino que ademas para facilitar el acceso de los trabajadores se contruyo una mini ciudad alrededor para que los empleados se pudieran quedar a vivir ahi y no tuvieran que movilizarse desde muy lejos (porque si el lugar esta en el medio de la fucking nada). A partir de ahi pueden pasar muchas cosas, ademas la ciudad no precisa ser una ciudad normal tampoco dado que en el contexto de la historia se supone que es un lugar abandonado pero donde obviamente muchas otras personas vieron intereses (quiza cultos, quiza tecnocratas, quiza politicos, quien sabe) y ademas, por ser el principal foto del Encuentro, todo el lugar no vive de manera "normal" podriamos decir. je.
+
 ### Puzzles
 Diria que vayamos mas por el lado de Silent Hill, en todo caso un punto medio entre resi y sh para la dificultad de resolverlos -Hernan: Prefiero unos mas tirados a sh si, aunque aprovecharse de la simplicidad de los puzzle del re tampoco es una mala idea para algun puzzle que otro, pero si reducimos los puzzles y los hacemos mas dificiles o mas complejos tampoco me pareceria mal, en plan, hacer unos pocos puzzles muy complejos (complejos en el sentido de que se extienden durante gran momento del juego) y meter pequeños mini puzzle muy simples en el medio como transicion simplemente, no se si me estoy explicando bien. Otra cosa importante a plantear, el "Silver Pines" tiene una mecanica donde te permite volver a un lugar en el que hayas hecho una foto previamente, no digo de copiarla porque me pareceria excesivo pero tratar de buscar una alternativa o en su defecto jugar con los shortcut's para facilitar el realizar algunos puzzles o al menos el llegar hasta ellos.
 
@@ -73,7 +77,7 @@ En el mundo en el que transcurre la historia, la humanidad habia abandonado la g
 Despues de ese suceso empiezan a pasar cosas fuera de lo comun (Aca podriamos incluir cualquier cosa realmente, como el concepto es tan ambiguo las cosas que suceden despues del "Encuentro" podrian ser cualquiera, tampoco hace falta definirlo en este momento solo estoy planteando el contexto del mundo en el que transcurriria la historia principal).
 Despues del "Encuentro" la humanidad perdio la razon, entro en panico y obviamente no tardo en surgir cultos religiosos totalmente desviados, asi como escepticos, oportunistas, etc.
 
-"El nunca nos castigaria por encontrarlo, pero cuando lo hicimos ya nos habiamos desviado demasiado."
+"El nunca nos castigaria por encontrarlo, pero cuando lo hicimos ya nos habiamos desviado demasiado.", "No debimos abrir el Velo... no debimos dejarlo entrar."
 
 PD: Es relativamente simple en cierta forma pero supongo que no esta mal para empezar. Lo tire mas que nada por un lado mas religioso aunque la idea es que lo que carajo sea "Eso" no se especifique nada, simplemente es algo y punto, el hecho de pensar que sea Dios seria meramente una interpretacion propia.
 
