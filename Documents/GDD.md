@@ -14,7 +14,7 @@ Puede realizar un empuje como el de Zomboid, podria ser una carga u otra cosa pe
 
 El jugador no puede pegar a melee sin algun arma equipada.
 
-Podria estar interesante agregar el tipico pisoton para rematar? No estoy tan seguro de darle esa capacidad al jugador igualmente. Depende, en el signalis puedes patearlos en el piso para rematar, pero los enemigos siempre reviven despues de un tiempo (explorar si queremos enemigos que revivan y se necesite una mecanica para matarlos para siempre)
+Podria estar interesante agregar el tipico pisoton para rematar? No estoy tan seguro de darle esa capacidad al jugador igualmente. Depende, en el signalis puedes patearlos en el piso para rematar, pero los enemigos siempre reviven despues de un tiempo (explorar si queremos enemigos que revivan y se necesite una mecanica para matarlos para siempre) -Hernan: Tengamos en cuenta que si pensamos en un diseño de nivel mas lineal no tiene sentido que los enemigos revivan porque nunca vas a volver a pasar por ahi como para que sea significativo.
 
 El inventario es tipo RE2, aunque podria llegar a ser tipo RE4, pero podriamos centrarnos en un inventario como RE2 primero y ver como funciona. Ademas el juego no se va a pausar cuando abras el inventario y ademas te deberia de permitir poder ver algo del juego mientras estan con el inventario abierto.
 
@@ -51,12 +51,13 @@ PD: No es necesario pensar en quedarse con una sola de estas, de hecho no estari
 - Dios nos abandona
 - Nos visita una entidad que no deberia estar en nuestro plano
 - Culto religioso haciendo macanerias (JA un clasico)
+- El juego "Look Outside" tiene un concepto interesante de entrada para ver
 
 ### Puzzles
-Diria que vayamos mas por el lado de Silent Hill, en todo caso un punto medio entre resi y sh para la dificultad de resolverlos
+Diria que vayamos mas por el lado de Silent Hill, en todo caso un punto medio entre resi y sh para la dificultad de resolverlos -Hernan: Prefiero unos mas tirados a sh si, aunque aprovecharse de la simplicidad de los puzzle del re tampoco es una mala idea para algun puzzle que otro, pero si reducimos los puzzles y los hacemos mas dificiles o mas complejos tampoco me pareceria mal, en plan, hacer unos pocos puzzles muy complejos (complejos en el sentido de que se extienden durante gran momento del juego) y meter pequeños mini puzzle muy simples en el medio como transicion simplemente, no se si me estoy explicando bien. Otra cosa importante a plantear, el "Silver Pines" tiene una mecanica donde te permite volver a un lugar en el que hayas hecho una foto previamente, no digo de copiarla porque me pareceria excesivo pero tratar de buscar una alternativa o en su defecto jugar con los shortcut's para facilitar el realizar algunos puzzles o al menos el llegar hasta ellos.
 
-Backtracking para resolver alguno??
+Backtracking para resolver alguno?? -Hernan: Me gustaria la verdad.
 
 ### Exploracion
 
-Queremos que sea linear o que te vayas desbloqueando zonas en un area predeterminada a medida que vayas avanzando en la historia? (estilo re2 o metroidvanias)
+Queremos que sea linear o que te vayas desbloqueando zonas en un area predeterminada a medida que vayas avanzando en la historia? (estilo re2 o metroidvanias) -Hernan: Personalmente me gustan las zonas grandes y bloqueadas donde te vas abriendo camino, aunque tambien es verdad que creo que ningun survival horror depende de eso completamente, la mayoria usa esa estructura en una zona en particular del juego y despues lo combinan con otra zona mas lineal que termina conectando con la siguiente, para resumir, me gustaria que las secciones principales sean como la mansion de re o el hospital del requiem etc. pero no veo lo malo de combinar ambas estructuras, tambien me interesaria ver si algo como dark souls 1 es aplicable a este caso.
