@@ -61,3 +61,19 @@ Backtracking para resolver alguno?? -Hernan: Me gustaria la verdad.
 ### Exploracion
 
 Queremos que sea linear o que te vayas desbloqueando zonas en un area predeterminada a medida que vayas avanzando en la historia? (estilo re2 o metroidvanias) -Hernan: Personalmente me gustan las zonas grandes y bloqueadas donde te vas abriendo camino, aunque tambien es verdad que creo que ningun survival horror depende de eso completamente, la mayoria usa esa estructura en una zona en particular del juego y despues lo combinan con otra zona mas lineal que termina conectando con la siguiente, para resumir, me gustaria que las secciones principales sean como la mansion de re o el hospital del requiem etc. pero no veo lo malo de combinar ambas estructuras, tambien me interesaria ver si algo como dark souls 1 es aplicable a este caso.
+
+### World building
+
+-Hernan: Pense en algo para darle contexto a el mundo en el que transcurre la historia, lo voy a dejar anotado y despues lo revisamos, cambiamos o elegimos otra cosa.
+
+En el mundo en el que transcurre la historia, la humanidad habia abandonado la guia de Dios y entrado en una era sin El, creyendo que simplemente no lo necesitaban (la idea viene de la mitica frase de Nietzsche "Dios ha muerto, nosotros lo hemos matado", que plantea el problema de tener que vivir con valores morales, reglas y leyes que ya no pueden ser sustentados con una base divina y por ende pierden valor, autoridad y legitimidad), y en la busqueda de conocimiento la humanidad observa algo que no debia.
+
+"Cuando la humanidad vio detras del Velo, Eso... nos devolvio la mirada."
+
+Despues de ese suceso empiezan a pasar cosas fuera de lo comun (Aca podriamos incluir cualquier cosa realmente, como el concepto es tan ambiguo las cosas que suceden despues del "Encuentro" podrian ser cualquiera, tampoco hace falta definirlo en este momento solo estoy planteando el contexto del mundo en el que transcurriria la historia principal).
+Despues del "Encuentro" la humanidad perdio la razon, entro en panico y obviamente no tardo en surgir cultos religiosos totalmente desviados, asi como escepticos, oportunistas, etc.
+
+"El nunca nos castigaria por encontrarlo, pero cuando lo hicimos ya nos habiamos desviado demasiado."
+
+PD: Es relativamente simple en cierta forma pero supongo que no esta mal para empezar. Lo tire mas que nada por un lado mas religioso aunque la idea es que lo que carajo sea "Eso" no se especifique nada, simplemente es algo y punto, el hecho de pensar que sea Dios seria meramente una interpretacion propia.
+
