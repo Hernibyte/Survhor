@@ -43,6 +43,8 @@ Enemigo que no se puede morir con melee o arma de fuego y necesita un objeto cla
 
 Lista de algunas cosas que podrian funcionar como referencia para el disparador inicial. Preferiblemente que funcione con una sola frase. Solo es para iniciar el concepto en base a esa frase simple.
 
+PD: No es necesario pensar en quedarse con una sola de estas, de hecho no estaria mal si podemos plantear una como la principal y agregar partes de otras como accesorias, o incluso combinar conceptos y ver que sale. Todo esto son meramente opciones.
+
 - IA mala mu mala pasan cosas pum caos muerte destruccion y horror
 - Un mundo en los sueños y la mente
 - Viviendo una simulacion
