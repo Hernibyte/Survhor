@@ -1,6 +1,6 @@
 # Game Design Document
 
-PD: Usar el prefijo Survhor para las clases en C++.
+PD: Usar el prefijo Survhor para las clases en C++. (es muy largo, diria de usar SH, sino los nombres van a ser enormes y van a generar errores my niggi)
 
 ## Initial Design Concept
 
